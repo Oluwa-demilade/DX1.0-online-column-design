@@ -1,0 +1,9 @@
+/* Basic Syntax */
+/* Selector{Property: value;} */
+/* SELECT : TAG , ID, CLASSES */
+
+h1{
+    color: orange;
+    border: 1px solid black;
+    display: inline;
+}
